@@ -1,5 +1,5 @@
 # Slither_snake
-This is a snake game developed using python. It is the edited version of the previous code I uploaded in the repository - "Slither Snake using Python"
+This is a snake game developed using python. It is the edited version of the previous code I uploaded in the repository :- "Slither_Snake_game"
 
 import pygame
 import random
